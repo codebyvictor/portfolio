@@ -3,8 +3,6 @@
 ## [1. Creating a Momentum Trading Strategy on Matlab / backtest](https://github.com/codebyvictor/Momentum-Trading-Strategy-on-Matlab.git)
 #### Tools used: Matlab
 
-[![](/images/strat-performance-dataset.png)](https://github.com/codebyvictor/Momentum-Trading-Strategy-on-Matlab.git)
-
 The goal of this project is to calculate returns on a long-short momentum portfolio, using monthly data retrieved from the CRSP database from 2005 to 2009. Momentum is a trading strategy in which investors buy securities that are rising and sell them when they look to have peaked. The idea is to work with volatility by finding buying opportunities in short-term uptrends and then sell when the securities start to lose momentum. In this case, the loser portfolio is defined as securities where the yearly return is less than the 1st quantile and the winner portfolio is the one where the yearly return is larger than the 9th momentum quantile.
 
 ## [2. Creating a Mean-Reversion Trading Algorithm](https://github.com/codebyvictor/Mean-Reversion-Strategy.git)
