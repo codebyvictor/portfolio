@@ -38,7 +38,7 @@ This project conducts a sentiment analysis of company and user tweets on the sus
 ## [6. Olympic Performance Prediction using Classification Trees](https://github.com/codebyvictor/Olympic-Performance-Prediction-using-Classification-Trees.git)
 #### Tools Used: R Studio, Random Forests, Multiple Logistic Regression, GG Plot, Latex
 
-[![](/images/random-forest-diagram.png)](https://github.com/codebyvictor/Olympic-Performance-Prediction-using-Classification-Trees.git)
+[![](/images/random-forest-diagram.svg)](https://github.com/codebyvictor/Olympic-Performance-Prediction-using-Classification-Trees.git)
 
 This project follows the story of a sport recruiter that makes use of data analytics to identify young athletes with high potential. The data regrouped more than 270,000 performances that occured in the Olympics up to 2016. This analysis highlights the importance of data analytics in fields such as sport management. Statistical techniques such as decision trees, multiple logistic regression, and random forests were used to find a model to make the most accurate predictions in future performances.
 
