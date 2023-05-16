@@ -1,16 +1,16 @@
 # Portfolio
 
-## [1. Creating a Momentum Trading Strategy on Matlab](https://github.com/codebyvictor/Momentum-Trading-Strategy-on-Matlab.git)
+## [1. Creating a Momentum Trading Strategy on Matlab / backtest](https://github.com/codebyvictor/Momentum-Trading-Strategy-on-Matlab.git)
 #### Tools used: Matlab
 
-[![](/images/pca_graph.jpg)](https://github.com/codebyvictor/Momentum-Trading-Strategy-on-Matlab.git)
+[![](/images/strat-performance-dataset.png)](https://github.com/codebyvictor/Momentum-Trading-Strategy-on-Matlab.git)
 
-The goal of this project is to calculate returns on a long-short momentum portfolio, using monthly data retrieved from the CRSP database. Momentum is a trading strategy in which investors buy securities that are rising and sell them when they look to have peaked. The idea is to work with volatility by finding buying opportunities in short-term uptrends and then sell when the securities start to lose momentum. In this case, the loser portfolio is defined as securities where the yearly return is less than the 1st quantile and the winner portfolio is the one where the yearly return is larger than the 9th momentum quantile.
+The goal of this project is to calculate returns on a long-short momentum portfolio, using monthly data retrieved from the CRSP database from 2005 to 2009. Momentum is a trading strategy in which investors buy securities that are rising and sell them when they look to have peaked. The idea is to work with volatility by finding buying opportunities in short-term uptrends and then sell when the securities start to lose momentum. In this case, the loser portfolio is defined as securities where the yearly return is less than the 1st quantile and the winner portfolio is the one where the yearly return is larger than the 9th momentum quantile.
 
 ## [2. Creating a Mean-Reversion Trading Algorithm](https://github.com/codebyvictor/Mean-Reversion-Strategy.git)
 #### Tools Used: Python (Jupyter Notebook), pandas, numpy, yfinance, beautifulsoup, matplotlib, seaborn, pushsafer
 
-[![](/images/bixi.png)](https://github.com/codebyvictor/Mean-Reversion-Strategy.git)
+[![](/images/strategy-graph.png)](https://github.com/codebyvictor/Mean-Reversion-Strategy.git)
 
 Mean-reversion strategies work on the assumption that there is an underlying stable trend in the price of an asset and prices fluctuate randomly around this trend. This means that a wide down movement below this trend will indicate a support level or buy signal and a big up movement will indicate a resistance level or sell signal.
 
@@ -38,14 +38,14 @@ This project conducts a sentiment analysis of company and user tweets on the sus
 ## [6. Olympic Performance Prediction using Classification Trees](https://github.com/codebyvictor/Olympic-Performance-Prediction-using-Classification-Trees.git)
 #### Tools Used: R Studio, Random Forests, Multiple Logistic Regression, GG Plot, Latex
 
-[![](/images/sustainability.png)](https://github.com/codebyvictor/Olympic-Performance-Prediction-using-Classification-Trees.git)
+[![](/images/random-forest-diagram.png)](https://github.com/codebyvictor/Olympic-Performance-Prediction-using-Classification-Trees.git)
 
 This project follows the story of a sport recruiter that makes use of data analytics to identify young athletes with high potential. The data regrouped more than 270,000 performances that occured in the Olympics up to 2016. This analysis highlights the importance of data analytics in fields such as sport management. Statistical techniques such as decision trees, multiple logistic regression, and random forests were used to find a model to make the most accurate predictions in future performances.
 
 ## [7. Building a 10,000 NFT Collection from scratch](https://github.com/codebyvictor/NFT-Collection.git)
 #### Tools Used: Illustrator, Javascript
 
-[![](/images/sustainability.png)](https://github.com/codebyvictor/NFT-Collection.git)
+[![](/images/Website-screenshot.png)](https://github.com/codebyvictor/NFT-Collection.git)
 
 Gaining more and more popularity, I decided to create my own collection of Non Fungible Tokens at the beginning of 2022, later developed on the Ethereum Blockchain. I used Adobe Illustrator to draw a first idea of my NFT and decided to make Snails the main concept of my collection. With the objective of creating more than 10k pieces of unique images, I first drew a combination of 5 to 20 images per layer (hats, accessories, colour, shirts, backgrounds...) and combined them with a Javascript program.
 
@@ -59,7 +59,7 @@ GoPro is a top-tier action camera producer that creates its own mobile apps and 
 ## [9. Creation of website for a student-run consulting company (Started) https://github.com/codebyvictor/Website-project](https://github.com/codebyvictor/Website-project.git)
 #### Tools Used: Wix
 
-[![](/images/sustainability.png)](https://github.com/codebyvictor/Website-project.git)
+[![](/images/started-screenshot.png)](https://github.com/codebyvictor/Website-project.git)
 
 Started is a consulting startup created by McGill students to provide business-building resources for Montreal-based social entrepreneurs. The goal is to increase entrepreneurs' access to capital through targeted business development. Specifically, Started provides support on impact measurement, the design of a business plan, and helps entrepreneurs connect with investors, incubators, and accelerators. I worked as a freelance to build a complete business platform using Wix as the support to this website.
 
