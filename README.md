@@ -54,7 +54,7 @@ Gaining more and more popularity, I decided to create my own collection of Non F
 
 GoPro is a top-tier action camera producer that creates its own mobile apps and video editing software. This study aims to analyze GoPro's Twitter image uploads using Google Cloud Vision API. Twitter tweets were scraped and processed through the API using a Python script. Through topic modeling, each image was categorized into a theme and sorted based on engagement metrics. The performance of each theme was analyzed, revealing that on average, landscape photos generated higher engagement, while photos related to winter sports or water sports had lower engagement rates.
 
-## [9. Creation of website for a student-run consulting company (Started) https://github.com/codebyvictor/Website-project](https://github.com/codebyvictor/Website-project.git)
+## [9. Creation of website for a student-run consulting company (Started)](https://github.com/codebyvictor/Website-project.git)
 #### Tools Used: Wix
 
 [![](/images/started-screenshot.png)](https://github.com/codebyvictor/Website-project.git)
