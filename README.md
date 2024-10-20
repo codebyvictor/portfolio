@@ -1,20 +1,20 @@
 # Portfolio
 
-## [1. Backtesting the Value at Risk using GARCH](https://github.com/codebyvictor/Momentum-Trading-Strategy-on-Matlab.git)
+## [1. Backtesting the Value at Risk using GARCH]
 #### Tools used: R
 
 This project centers on the backtesting of Value at Risk (VaR) measures for the S&P 500 and FTSE 100 financial indices using the GARCH(1,1)-Normal model. The approach entails computing log returns for these indices, estimating VaR using a static approach, then conducting a rolling window backtest. 
 
-## [2. Risk Management: Valuation of an options portfolio using Black Scholes](https://github.com/codebyvictor/Momentum-Trading-Strategy-on-Matlab.git)
+## [2. Risk Management: Valuation of an options portfolio using Black Scholes]
 #### Tools used: R
 
 This project involves the analysis and valuation of an options portfolio using historical data from the S&P 500 and VIX indices. The analysis includes the fitting of a volatility surface, pricing the options using the Black-Scholes model, and risk assessment through simulation techniques utilizing univariate and bivariate Gaussian models as well as a Student-t copula
 
-## [3. Portfolio Management: ](https://github.com/codebyvictor/Momentum-Trading-Strategy-on-Matlab.git)
+## [3. Portfolio Management: Build an optimization algorithm for  ]
 #### Tools used: Python
 
 
-## [4. ](https://github.com/codebyvictor/Momentum-Trading-Strategy-on-Matlab.git)
+## [4. Optimizing a portfolio asset allocation by using efficient frontier]
 #### Tools used: Python
 
 
