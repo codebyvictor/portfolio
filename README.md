@@ -12,7 +12,7 @@ This project involves the analysis and valuation of an options portfolio using h
 
 ## [3. Portfolio Management: Backtest a portfolio using multiple factor model](https://github.com/codebyvictor/portfolio_optimization.git)
 #### Tools used: Python
-This project aims to compute and backtest portfolio strategies that using industry characteristics: market capitalization, book-to-market ratio, momentum, market beta and idiosyncratic volatility. We want to evaluate the performance of these strategies according to the Sharpe Ratio and alphas according to the Fama-French models with three, four and five factors.
+This project aims to compute and backtest portfolio strategies using 4 industry characteristics: market capitalization, book-to-market ratio, momentum, market beta and idiosyncratic volatility. We assess the performance of these strategies using the Sharpe Ratio and the alphas derived from the Fama-French three-factor, four-factor, and five-factor models
 
 ## [4. Optimizing a portfolio asset allocation by using efficient frontier](https://github.com/codebyvictor/portfolio_optimization.git)
 #### Tools used: Python
