@@ -1,20 +1,20 @@
 # Portfolio
 
-## [1. Backtesting the Value at Risk using GARCH]
+## [1. Backtesting the Value at Risk using GARCH](https://github.com/codebyvictor/portfolio_optimization.git)
 #### Tools used: R
 
 This project centers on the backtesting of Value at Risk (VaR) measures for the S&P 500 and FTSE 100 financial indices using the GARCH(1,1)-Normal model. The approach entails computing log returns for these indices, estimating VaR using a static approach, then conducting a rolling window backtest. 
 
-## [2. Risk Management: Valuation of an options portfolio using Black Scholes]
+## [2. Risk Management: Valuation of an options portfolio using Black Scholes](https://github.com/codebyvictor/portfolio_optimization.git)
 #### Tools used: R
 
 This project involves the analysis and valuation of an options portfolio using historical data from the S&P 500 and VIX indices. The analysis includes the fitting of a volatility surface, pricing the options using the Black-Scholes model, and risk assessment through simulation techniques utilizing univariate and bivariate Gaussian models as well as a Student-t copula
 
-## [3. Portfolio Management:  ]
+## [3. Portfolio Management: Backtest a portfolio using multiple factor model](https://github.com/codebyvictor/portfolio_optimization.git)
 #### Tools used: Python
+This project aims to compute and backtest portfolio strategies that using industry characteristics: market capitalization, book-to-market ratio, momentum, market beta and idiosyncratic volatility. We want to evaluate the performance of these strategies according to the Sharpe Ratio and alphas according to the Fama-French models with three, four and five factors.
 
-
-## [4. Optimizing a portfolio asset allocation by using efficient frontier](https://github.com/codebyvictor/Momentum-Trading-Strategy-on-Matlab.git)
+## [4. Optimizing a portfolio asset allocation by using efficient frontier](https://github.com/codebyvictor/portfolio_optimization.git)
 #### Tools used: Python
 This project uses Markowitz' variance-covariance method to optimize asset allocation. In particular, we integrate Michaud's resampling efficient frontier to maximize the risk-return of the portfolio. 
 
