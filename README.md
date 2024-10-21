@@ -10,7 +10,7 @@ This project centers on the backtesting of Value at Risk (VaR) measures for the 
 
 This project involves the analysis and valuation of an options portfolio using historical data from the S&P 500 and VIX indices. The analysis includes the fitting of a volatility surface, pricing the options using the Black-Scholes model, and risk assessment through simulation techniques utilizing univariate and bivariate Gaussian models as well as a Student-t copula
 
-## [3. Portfolio Management: Backtest portfolio strategies using multiple factor model](https://github.com/codebyvictor/portfolio_optimization.git)
+## [3. Portfolio Management: Backtest portfolio strategies using multiple factor model](https://github.com/codebyvictor/multiple_factor_portfolio.git)
 #### Tools used: Python
 This project aims to compute and backtest portfolio strategies using 4 industry characteristics: market capitalization, book-to-market ratio, momentum, market beta and idiosyncratic volatility. We assess the performance of these strategies using the Sharpe Ratio and the alphas derived from the Fama-French three-factor, four-factor, and five-factor models
 
