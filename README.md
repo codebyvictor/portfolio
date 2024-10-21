@@ -10,13 +10,17 @@ This project centers on the backtesting of Value at Risk (VaR) measures for the 
 
 This project involves the analysis and valuation of an options portfolio using historical data from the S&P 500 and VIX indices. The analysis includes the fitting of a volatility surface, pricing the options using the Black-Scholes model, and risk assessment through simulation techniques utilizing univariate and bivariate Gaussian models as well as a Student-t copula
 
-## [3. Portfolio Management: Build an optimization algorithm for  ]
+## [3. Portfolio Management:  ]
 #### Tools used: Python
 
 
-## [4. Optimizing a portfolio asset allocation by using efficient frontier]
+## [4. Optimizing a portfolio asset allocation by using efficient frontier](https://github.com/codebyvictor/Momentum-Trading-Strategy-on-Matlab.git)
 #### Tools used: Python
+This project uses Markowitz' variance-covariance method to optimize asset allocation. In particular, we integrate Michaud's resampling efficient frontier to maximize the risk-return of the portfolio. 
 
+This portfolio optimization technique was developed by Richard Michaud to address the limitations of the traditional mean-variance optimization approach. The method aims to create more stable and robust portfolios by incorporating statistical resampling techniques to account for the inherent uncertainty and estimation errors in the inputs (expected returns, variances, and covariances).
+
+Linear constraints on the assets are added to the optimization problem.
 
 ## [5. Creating a Momentum Trading Strategy on Matlab / backtest](https://github.com/codebyvictor/Momentum-Trading-Strategy-on-Matlab.git)
 #### Tools used: Matlab
