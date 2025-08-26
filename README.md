@@ -30,8 +30,6 @@ The goal of this project is to calculate returns on a long-short momentum portfo
 ## [6. Creating a Mean-Reversion Trading Algorithm](https://github.com/codebyvictor/Mean-Reversion-Strategy.git)
 #### Tools Used: Python (Jupyter Notebook), pandas, numpy, yfinance, beautifulsoup, matplotlib, seaborn, pushsafer
 
-[![](/images/strategy-graph.png)](https://github.com/codebyvictor/Mean-Reversion-Strategy.git)
-
 Mean-reversion strategies work on the assumption that there is an underlying stable trend in the price of an asset and prices fluctuate randomly around this trend. This means that a wide down movement below this trend will indicate a support level or buy signal and a big up movement will indicate a resistance level or sell signal.
 
 ## [7. Mixed Integer Programming to solve Supply-Demand Mismatch for Bike Sharing Service](https://github.com/codebyvictor/Rebalancing-Optimization-for-Bike-sharing-Systems.git)
